@@ -4,7 +4,8 @@ logging.level:
   
 # Active Profile
 spring:
-  profiles.active: test
+  profiles:
+    active: test
 
 # Banner Text
   banner:
