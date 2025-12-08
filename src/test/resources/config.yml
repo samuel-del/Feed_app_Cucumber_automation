@@ -2,7 +2,7 @@
 test:
   url:
     backend: "http://localhost:8080"
-    frontend: "http://localhost:3000"
+    frontend: "http://localhost:5173"
   browser: chrome
   default.timeout: 30  
   
