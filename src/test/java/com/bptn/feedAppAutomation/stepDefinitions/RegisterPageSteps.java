@@ -29,7 +29,7 @@ public class RegisterPageSteps {
 	
 	By txtFirstName = By.id("firstName");
 	By txtLastName = By.id("lastName");
-	By txtUsername = By.id("username");
+	By txtUsername = By.id("userName");
 	By txtEmail = By.id("emailId");
 	By txtPassword = By.id("password");
 	By txtPhone = By.id("phone");
